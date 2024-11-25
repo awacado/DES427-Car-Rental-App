@@ -1,0 +1,23 @@
+export const cars = [
+    { id: '1', make: 'Toyota', model: 'Camry', color: 'White' },
+    { id: '2', make: 'Honda', model: 'Civic', color: 'Black' },
+    { id: '3', make: 'Ford', model: 'Fiesta', color: 'Blue' },
+    { id: '4', make: 'Chevrolet', model: 'Malibu', color: 'Silver' },
+    { id: '5', make: 'BMW', model: '3 Series', color: 'Red' },
+    { id: '6', make: 'Mercedes', model: 'C-Class', color: 'Grey' },
+    { id: '7', make: 'Audi', model: 'A4', color: 'White' },
+    { id: '8', make: 'Tesla', model: 'Model 3', color: 'Blue' },
+    { id: '9', make: 'Nissan', model: 'Altima', color: 'Black' },
+    { id: '10', make: 'Hyundai', model: 'Elantra', color: 'Green' },
+    { id: '11', make: 'Kia', model: 'Soul', color: 'Yellow' },
+    { id: '12', make: 'Mazda', model: 'CX-5', color: 'White' },
+    { id: '13', make: 'Subaru', model: 'Impreza', color: 'Blue' },
+    { id: '14', make: 'Volkswagen', model: 'Jetta', color: 'Silver' },
+    { id: '15', make: 'Volvo', model: 'XC40', color: 'Black' },
+    { id: '16', make: 'Lexus', model: 'ES', color: 'Red' },
+    { id: '17', make: 'Jeep', model: 'Wrangler', color: 'Green' },
+    { id: '18', make: 'Dodge', model: 'Charger', color: 'Orange' },
+    { id: '19', make: 'Porsche', model: 'Cayenne', color: 'Grey' },
+    { id: '20', make: 'Ferrari', model: '488', color: 'Red' },
+  ];
+  
